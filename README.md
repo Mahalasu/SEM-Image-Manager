@@ -10,12 +10,12 @@ Below are some screenshots of my software. Each of them represents the main wind
 
 
 
-![](/Users/gaoshangdai/Downloads/毕设所有资料%202/论文图片/MainPanel.png)
+![](/Pics/MainPanel.png)
 
-![](/Users/gaoshangdai/Downloads/毕设所有资料%202/论文图片/Insert_1.png)
+![](/Pics/Insert_1.png)
 
-![](/Users/gaoshangdai/Downloads/毕设所有资料%202/论文图片/Modify_1.png)
+![](/Pics/Modify_1.png)
 
-![](/Users/gaoshangdai/Downloads/毕设所有资料%202/论文图片/Search_4.png)
+![](/Pics/Search_4.png)
 
-![](/Users/gaoshangdai/Downloads/毕设所有资料%202/论文图片/Delete.png)
+![](/Pics/Delete.png)
