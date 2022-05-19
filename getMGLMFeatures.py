@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Author: Chen Zhexing
-Created in: 2021/04/20
 Readme: Count GLCM features from a image.
 """
 
